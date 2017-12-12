@@ -1,0 +1,2 @@
+# website
+Public MineSmore website.
